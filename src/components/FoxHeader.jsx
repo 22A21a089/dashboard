@@ -4,8 +4,8 @@ import { BsEnvelope, BsTelephone, BsSearch } from 'react-icons/bs';
 import x from '../assets/naac.png'
 import y from '../assets/nba.webp'
 import z from '../assets/jntuk.png'
-import a from '../assets/iic.png'
-import b from '../assets/ariia.jpg'
+import a from '../assets/IIC.png'
+import b from '../assets/ARIIA.jpg'
 import c from '../assets/autonomous.png'
 import logo from "../assets/swarnandhra.png";
 const FoxHeader = ({ onSearch }) => {
