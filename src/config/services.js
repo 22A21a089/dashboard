@@ -3,18 +3,18 @@
  * Update these URLs to point to your deployed microservices/applications.
  */
 export const SERVICE_CONFIG = {
-  faculty_management: "http://localhost:5174/faculty", // Example local port
-  timetable_management: "http://localhost:5175/timetable",
-  smart_campus_erp: "http://localhost:5176/erp",
-  iqac_management: "http://localhost:5177/iqac",
-  academic_support: "http://localhost:5178/academic",
-  question_paper: "http://localhost:5179/exams",
-  internships: "http://localhost:5180/internship",
-  counselling: "http://localhost:5181/counselling",
-  leave_management: "http://localhost:5182/leave",
-  research: "http://localhost:5183/research",
-  learning_resources: "http://localhost:5184/learning",
-  placements: "http://localhost:5185/placements"
+  faculty_management: "https://culty.basketind.in",
+  timetable_management: "https://timetable.basketind.in",
+  smart_campus_erp: "https://erp.basketind.in",
+  iqac_management: "https://iqac.basketind.in",
+  academic_support: "https://support.basketind.in",
+  question_paper: "https://qp.basketind.in",
+  internships: "https://internship.basketind.in",
+  counselling: "https://counselling.basketind.in",
+  leave_management: "https://leaves.basketind.in",
+  research: "https://research.basketind.in",
+  learning_resources: "https://supportai.basketind.in",
+  placements: "https://placements.basketind.in"
 };
 
 /**
